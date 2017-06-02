@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PlayVideo", ".", "{7B2F48E3-6D91-41D8-BE6E-C0E0E8152E41}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52555"
+		Debug.AspNetCompiler.PhysicalPath = "H:\IT领跑者\《ASP.NET项目开发案例全程实录（第2版）》【中文PDF+源代码】\《ASP.NET项目开发案例全程实录（第2版）》所有案例源码\11\PlayVideo\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52555\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52555"
+		Release.AspNetCompiler.PhysicalPath = "H:\IT领跑者\《ASP.NET项目开发案例全程实录（第2版）》【中文PDF+源代码】\《ASP.NET项目开发案例全程实录（第2版）》所有案例源码\11\PlayVideo\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52555\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52555"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B2F48E3-6D91-41D8-BE6E-C0E0E8152E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2F48E3-6D91-41D8-BE6E-C0E0E8152E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
