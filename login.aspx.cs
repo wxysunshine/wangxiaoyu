@@ -52,4 +52,9 @@ public partial class login : System.Web.UI.Page
         }
         
     }
+
+    protected void LinkButton1_Click(object sender, EventArgs e)
+    {
+
+    }
 }
